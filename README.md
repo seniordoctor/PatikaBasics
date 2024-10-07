@@ -1,0 +1,2 @@
+# PatikaBasics
+Patika eğitim projeleri
